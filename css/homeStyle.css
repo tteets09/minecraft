@@ -7,3 +7,13 @@
     font-family: 'enchanted';
     src: url(../fonts/minecraft-enchantment.ttf);
 }
+
+html body {
+    margin: 0;
+    height: 100vh;
+    background-image: url(../images/minecraftArch.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
