@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url(../fonts/minecraft-font/minecraft.otf);
+}
+
+@font-face {
+    font-family: 'enchanted';
+    src: url(../fonts/minecraft-enchantment.ttf);
+}
